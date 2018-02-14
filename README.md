@@ -1,4 +1,4 @@
-CSC-510-HW1-A
+CSC-519-HW1-A
 ===================
 Using NodeJS to create instances of AWS and Digital Ocean and printing out their IP Address
 
