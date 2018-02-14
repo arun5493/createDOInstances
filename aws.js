@@ -41,7 +41,7 @@ ec2.runInstances(params, function(err, data) {
      if (err) {
        console.log("Error", err.stack);
      } else {
-       console.log("Success.. The EC2's IP Address is: ", JSON.stringify(data.Reservations[0].Instances[0].InstanceId));
+       console.log("Success.. The EC2's IP Address is: ",data.Reservations[0].Instances[0].PublicIpAddress);
      }
    });
    },10000)
