@@ -83,7 +83,7 @@ b--;
 
 In the first example, it does not matter how many times the statement gets executed. The value of a will still remain 10 always.
 
-However, in the second example, if the command is executed twice, the value of b will become b+2. It will be altered. Hence this is an example of non-idempotent operation.
+However, in the second example, if the command is executed twice, the value of b will become b-2. It will be altered. Hence this is an example of non-idempotent operation.
 
 ##### Issues related to management of Inventory
 
