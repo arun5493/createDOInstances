@@ -121,7 +121,7 @@ When configuration management is  applied over the life cycle of a system, it pr
 
 #### 4. Screencast
 
-Here is a [link](https://youtu.be/hFUlbDuhDDo) for the screencast video showing the required steps.
+Here is a [link](https://youtu.be/ReHDLQ78wU0) for the screencast video showing the required steps.
 
 
 
